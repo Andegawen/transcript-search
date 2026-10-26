@@ -1,0 +1,1 @@
+{ "name": "transcript-search", "version": "0.1.0", "description": "Search this session's conversation from a pane: /find <text>", "types": "./types/index.d.ts" }

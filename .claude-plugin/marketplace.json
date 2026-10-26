@@ -1,0 +1,5 @@
+{
+  "name": "transcript-search",
+  "owner": { "name": "Andegawen" },
+  "plugins": [{ "name": "transcript-search", "source": "./" }]
+}
